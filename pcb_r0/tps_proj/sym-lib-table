@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name tps709-q1)(type Legacy)(uri C:/Users/Chris/Documents/GIT_toggling-power-switch/pcb_r0/tps_proj/tps709-q1.lib)(options "")(descr ""))
+  (lib (name bts4175sga)(type Legacy)(uri C:/Users/Chris/Documents/GIT_toggling-power-switch/pcb_r0/tps_proj/bts4175sga.lib)(options "")(descr ""))
+)
